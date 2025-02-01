@@ -1,6 +1,4 @@
-// using array login ,salary of employe,leave day, calculate thaya pachhi badhu aavu joiye salary and all like database
-//per day salary is 1000 rs
- 
+//employee salary as per daily work hours
 
 #include <iostream>
 using namespace std;
